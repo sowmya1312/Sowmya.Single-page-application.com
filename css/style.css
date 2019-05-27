@@ -323,7 +323,7 @@ text-align: center;
     left: 51px;
 }
   .banner img {
-    margin-left: 158px;
+    margin-left: 15px !important;
     margin-top: 233px;
 }
 }
