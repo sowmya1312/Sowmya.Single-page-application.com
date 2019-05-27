@@ -324,8 +324,8 @@ text-align: center;
 }
   .banner img {
        position: relative;
-    top: 81%;
-    left: 420px;
+      top: 0%;
+    left: 102px;
 
 }
 }
