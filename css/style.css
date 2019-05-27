@@ -328,5 +328,9 @@ text-align: center;
     left: 102px;
 
 }
+  .servicescontent img {
+    margin: 0px;
+    text-align: center;
+}
 }
 
