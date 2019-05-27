@@ -316,5 +316,15 @@ text-align: center;
     max-width: 151%;
     margin: 0px;
   }
+  .banner h1{
+      text-align: center;
+    position: absolute;
+    top: 14%;
+    left: 51px;
+}
+  .banner img {
+    margin-left: 158px;
+    margin-top: 233px;
+}
 }
 
