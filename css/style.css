@@ -323,8 +323,10 @@ text-align: center;
     left: 51px;
 }
   .banner img {
-    margin-left: 15px !important;
-    margin-top: 233px;
+       position: relative;
+    top: 81%;
+    left: 420px;
+
 }
 }
 
